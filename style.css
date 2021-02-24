@@ -1,0 +1,21 @@
+
+
+.container {
+    text-align: center;
+}
+
+#lol {
+    background-color: aliceblue;
+}
+
+#lol img {
+    height: 300px;
+    margin-top: 30px
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
